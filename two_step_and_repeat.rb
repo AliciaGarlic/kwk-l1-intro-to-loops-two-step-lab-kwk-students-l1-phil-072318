@@ -3,11 +3,11 @@ def first_steps
   # "Right foot back", and "Stop", with sleep after each
   loop do
     puts "right foot back"
-      sleep
+      sleep(1)
     puts "left foot back"
-      sleep
+      sleep(1)
     puts "right foot back"
-      sleep
+      sleep(1)
     puts "stop"
 end
 end
